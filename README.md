@@ -95,6 +95,8 @@ We built this revolutionary platform by using following tools and technologies-
 - React 
 - Sepolia 
 - Metamask
+- Vite
+- Tailwind
 
 ## Challenges we ran into 
 We had trouble connecting and staying on the same page throughout the hackathon but we managed to develop and deploy Raise Waves by efficiently dividing task and strategically going about achieving it. We also had problem with coming up with an idea early during the hackathon and everybody in our team was new to **Web3 Development** but we managed to learn from YouTube tutorials, documentations and community forums online. By our efforts we were able to present to you **MVP** of our idea- **Raise Waves**. Moreover on technical front we also had trouble getting test coins from **Goerli** so had to use **Sepolia** instead to get test coins. In addition to this some of us also had trouble using **Hardhat** and **Thirdweb** efficiently but we as whole were able to help each other and come up with good solutions online.
