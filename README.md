@@ -40,21 +40,26 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
 ## How to get started
 
 - After having forked and cloned our repo- [Raise Waves](https://github.com/vaishnavi-3969/Raise-Waves), run the following commands in the terminal of your system to have you started-
-1.  ```
+
+```
 npm install
 ```
-2.  ```
+
+```
 cd web3
 ```
-3. ```
+
+```
 npm run deploy
 ``` 
 
 -  After this step you will need create your API secret key at  Thirdweb and connect with your Metamask account. After having done this you can run the following commands and you local development server will be ready-
-1. ```
+
+```
 cd client
 ```
-2. ```
+
+```
 npm run dev
 ``` 
 
