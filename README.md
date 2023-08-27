@@ -28,23 +28,23 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
    
 -----
 
-4. **Global Inclusivity:** Raise Waves, a **blockchain-based crowdsourcing app** breaks down geographical barriers. Anyone, anywhere in the world, can participate and support projects they resonate with. This inclusivity opens doors for diverse perspectives, cultures, and causes to receive funding that they might not have had access to otherwise.
+3. **Global Inclusivity:** Raise Waves, a **blockchain-based crowdsourcing app** breaks down geographical barriers. Anyone, anywhere in the world, can participate and support projects they resonate with. This inclusivity opens doors for diverse perspectives, cultures, and causes to receive funding that they might not have had access to otherwise.
    
 -----
 
-6. **Reduced Intermediary Costs:** Traditional **crowdfunding platforms** often involve third-party intermediaries that charge fees for their services. Blockchain can significantly reduce these costs by eliminating the need for intermediaries, allowing a larger share of funds to go directly to the projects.
+4. **Reduced Intermediary Costs:** Traditional **crowdfunding platforms** often involve third-party intermediaries that charge fees for their services. Blockchain can significantly reduce these costs by eliminating the need for intermediaries, allowing a larger share of funds to go directly to the projects.
 
 -----
 
-7. **Decentralized Ownership:** Blockchain gives **ownership and control back to the users**. It empowers individuals to drive the success of projects they believe in, without relying on a central authority.
+5. **Decentralized Ownership:** Blockchain gives **ownership and control back to the users**. It empowers individuals to drive the success of projects they believe in, without relying on a central authority.
 
 -----
 
-8. **Security and Privacy:** Blockchain's security measures protect sensitive **user data and transactions**. This is crucial for maintaining user privacy and safeguarding financial information.
+6. **Security and Privacy:** Blockchain's security measures protect sensitive **user data and transactions**. This is crucial for maintaining user privacy and safeguarding financial information.
 
 -----
 
-9. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
+7. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
 
 -----
 
