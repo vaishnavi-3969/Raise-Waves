@@ -10,7 +10,7 @@ In a world filled with dreams waiting to be realized, Raise Waves emerges as a b
 
 > Our vision extends beyond transactions – we're building connections that last. *Every contribution isn't just financial; it's a vote of confidence, an endorsement of potential, and a declaration that we're all in this together*. By seamlessly connecting those with dreams to those with the means, **Raise Waves** is fostering a community of believers, a network of champions, and a realm where inspiration finds its fullest expression.
 
-[Join us on this journey of turning dreams into action, of channeling aspirations into achievements.](https://github.com/vaishnavi-3969/Raise-Waves)
+[Join us on this journey of turning dreams into action, of channeling aspirations into achievements.](https://raise-waves.vercel.app)
 
 **Raise Waves** will not just be a platform; it at it's core imagines to be a catalyst for change, a testament to human ingenuity, and a testament to the remarkable things we can achieve when we come together. Elevate your aspirations with Raise Waves, where the extraordinary begins.
 
@@ -33,7 +33,10 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
 7. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
 
 ##### Features  
-
+1. Creating Campaigns for crowdfunding
+2. Connecting Metamask
+3. Shows the campaigns of a person
+4. Transfer eth to campaigns and view campaigns
 
 ##### Functionality 
 
