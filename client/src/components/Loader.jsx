@@ -1,14 +1,20 @@
-import React from 'react'
-
+import React from 'react';
 import { loader } from '../assets';
 
 const Loader = () => {
   return (
-    <div className="fixed inset-0 z-10 h-screen bg-[rgba(0,0,0,0.7)] flex items-center justify-center flex-col">
-      <img src={loader} alt="loader" className="w-[100px] h-[100px] object-contain"/>
-      <p className="mt-[20px] font-epilogue font-bold text-[20px] text-white text-center">Transaction is in progress <br /> Please wait...</p>
+    <div className="fixed inset-0 z-10 h-screen bg-[rgba(0,0,0,0.7)] flex items-center justify-center">
+      <div className="bg-white rounded-full p-6 shadow-md flex items-center space-x-4">
+        <img src={loader} alt="loader" className="w-[50px] h-[50px] animate-spin" />
+        <div>
+          <p className="font-epilogue font-semibold text-lg text-gray-800">
+            Transaction in Progress
+          </p>
+          <p className="text-gray-600">Please wait...</p>
+        </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Loader
+export default Loader;
