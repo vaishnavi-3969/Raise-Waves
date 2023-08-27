@@ -15,7 +15,7 @@ In a world filled with dreams waiting to be realized, Raise Waves emerges as a b
 **Raise Waves** will not just be a platform; it at it's core imagines to be a catalyst for change, a testament to human ingenuity, and a testament to the remarkable things we can achieve when we come together. Elevate your aspirations with Raise Waves, where the extraordinary begins.
 
 ## What it does 
-### Why Raise Waves
+##### Why Raise Waves
 It utilizes **blockchain based technology** to bring about a breakthrough in crowd sourcing apps. It has the ability to revolutionize transparency, trust, and inclusivity in the world of fundraising and support. Here's why:
 
 1. **Transparency Beyond Doubt:** Blockchain's **decentralized nature** ensures that every transaction and action is recorded in **an immutable and transparent manner**. This means that every contributor, fundraiser, and project backer can have confidence in the authenticity of the information. The elimination of intermediaries reduces the chances of fraud and ensures that funds are used as intended.
@@ -32,19 +32,31 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
 
 7. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
 
-### Features  
+##### Features  
 
 
-### Functionality 
+##### Functionality 
 
 ## How to get started
-After having forked and cloned our repo- [Raise Waves](https://github.com/vaishnavi-3969/Raise-Waves), run the following commands in the terminal of your system to have you started-
-- ```npm install```
-- ```cd web3```
-- ```npm run deploy``` 
-After this step you will need create your API secret key at  Thirdweb and connect with your Metamask account. After having done this you can run the following commands and you local development server will be ready-
-- ```cd client```
-- ```npm run dev``` 
+
+- After having forked and cloned our repo- [Raise Waves](https://github.com/vaishnavi-3969/Raise-Waves), run the following commands in the terminal of your system to have you started-
+1.  ```
+npm install
+```
+2.  ```
+cd web3
+```
+3. ```
+npm run deploy
+``` 
+
+-  After this step you will need create your API secret key at  Thirdweb and connect with your Metamask account. After having done this you can run the following commands and you local development server will be ready-
+1. ```
+cd client
+```
+2. ```
+npm run dev
+``` 
 
 ## How we built it 
 We built this revolutionary platform by using following tools and technologies- 
@@ -70,3 +82,7 @@ We learnt how to work with **Hardhat and Thirdweb**, and got a rough **idea of f
 ## Team 
 - [Vaishnavi Kale](https://github.com/vaishnavi-3969)
 - [Vaishali](https://github.com/arcVaishali)
+
+```
+Happy Coding!
+```
