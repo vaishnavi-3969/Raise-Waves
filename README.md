@@ -15,30 +15,53 @@ In a world filled with dreams waiting to be realized, Raise Waves emerges as a b
 **Raise Waves** will not just be a platform; it at it's core imagines to be a catalyst for change, a testament to human ingenuity, and a testament to the remarkable things we can achieve when we come together. Elevate your aspirations with Raise Waves, where the extraordinary begins.
 
 ## What it does 
-##### Why Raise Waves
+
+-----
+
+#### Why Raise Waves
 It utilizes **blockchain based technology** to bring about a breakthrough in crowd sourcing apps. It has the ability to revolutionize transparency, trust, and inclusivity in the world of fundraising and support. Here's why:
+
+-------
 
 1. **Transparency Beyond Doubt:** Blockchain's **decentralized nature** ensures that every transaction and action is recorded in **an immutable and transparent manner**. This means that every contributor, fundraiser, and project backer can have confidence in the authenticity of the information. The elimination of intermediaries reduces the chances of fraud and ensures that funds are used as intended.
 
+-----
+
 2. **Trust Through Technology:** With **blockchain**, trust becomes inherent in the system. **Smart contracts can be used to automate processes**, guaranteeing that funds are released only when specific conditions are met. This boosts trust between campaigners and backers, as everyone knows the rules are pre-defined and cannot be tampered with.
+   
+-----
 
-3. **Global Inclusivity:** Raise Waves, a **blockchain-based crowdsourcing app** breaks down geographical barriers. Anyone, anywhere in the world, can participate and support projects they resonate with. This inclusivity opens doors for diverse perspectives, cultures, and causes to receive funding that they might not have had access to otherwise.
+4. **Global Inclusivity:** Raise Waves, a **blockchain-based crowdsourcing app** breaks down geographical barriers. Anyone, anywhere in the world, can participate and support projects they resonate with. This inclusivity opens doors for diverse perspectives, cultures, and causes to receive funding that they might not have had access to otherwise.
+   
+-----
 
-4. **Reduced Intermediary Costs:** Traditional **crowdfunding platforms** often involve third-party intermediaries that charge fees for their services. Blockchain can significantly reduce these costs by eliminating the need for intermediaries, allowing a larger share of funds to go directly to the projects.
+6. **Reduced Intermediary Costs:** Traditional **crowdfunding platforms** often involve third-party intermediaries that charge fees for their services. Blockchain can significantly reduce these costs by eliminating the need for intermediaries, allowing a larger share of funds to go directly to the projects.
 
-5. **Decentralized Ownership:** Blockchain gives **ownership and control back to the users**. It empowers individuals to drive the success of projects they believe in, without relying on a central authority.
+-----
 
-6. **Security and Privacy:** Blockchain's security measures protect sensitive **user data and transactions**. This is crucial for maintaining user privacy and safeguarding financial information.
+7. **Decentralized Ownership:** Blockchain gives **ownership and control back to the users**. It empowers individuals to drive the success of projects they believe in, without relying on a central authority.
 
-7. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
+-----
 
-##### Features  
+8. **Security and Privacy:** Blockchain's security measures protect sensitive **user data and transactions**. This is crucial for maintaining user privacy and safeguarding financial information.
+
+-----
+
+9. **Easier Cross-Border Transactions:** Cryptocurrencies and blockchain enable **easy cross-border transactions** without the need for currency conversion or high fees, making it easier for backers and fundraisers to connect globally. 
+
+-----
+
+#### Features  
 1. Creating Campaigns for crowdfunding
 2. Connecting Metamask
 3. Shows the campaigns of a person
 4. Transfer eth to campaigns and view campaigns
 
-##### Functionality 
+-----
+
+#### Functionality 
+
+-----
 
 ## How to get started
 
