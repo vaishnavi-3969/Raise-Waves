@@ -10,11 +10,12 @@ In a world filled with dreams waiting to be realized, Raise Waves emerges as a b
 
 > Our vision extends beyond transactions – we're building connections that last. *Every contribution isn't just financial; it's a vote of confidence, an endorsement of potential, and a declaration that we're all in this together*. By seamlessly connecting those with dreams to those with the means, **Raise Waves** is fostering a community of believers, a network of champions, and a realm where inspiration finds its fullest expression.
 
-*Join us on this journey of turning dreams into action, of channeling aspirations into achievements.*
+[Join us on this journey of turning dreams into action, of channeling aspirations into achievements.](https://github.com/vaishnavi-3969/Raise-Waves)
 
 **Raise Waves** will not just be a platform; it at it's core imagines to be a catalyst for change, a testament to human ingenuity, and a testament to the remarkable things we can achieve when we come together. Elevate your aspirations with Raise Waves, where the extraordinary begins.
 
 ## What it does 
+### Why Raise Waves
 It utilizes **blockchain based technology** to bring about a breakthrough in crowd sourcing apps. It has the ability to revolutionize transparency, trust, and inclusivity in the world of fundraising and support. Here's why:
 
 1. **Transparency Beyond Doubt:** Blockchain's **decentralized nature** ensures that every transaction and action is recorded in **an immutable and transparent manner**. This means that every contributor, fundraiser, and project backer can have confidence in the authenticity of the information. The elimination of intermediaries reduces the chances of fraud and ensures that funds are used as intended.
@@ -34,7 +35,16 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
 ### Features  
 
 
-### Functionality
+### Functionality 
+
+## How to get started
+After having forked and cloned our repo- [Raise Waves](https://github.com/vaishnavi-3969/Raise-Waves), run the following commands in the terminal of your system to have you started-
+- ```npm install```
+- ```cd web3```
+- ```npm run deploy``` 
+After this step you will need create your API secret key at  Thirdweb and connect with your Metamask account. After having done this you can run the following commands and you local development server will be ready-
+- ```cd client```
+- ```npm run dev``` 
 
 ## How we built it 
 We built this revolutionary platform by using following tools and technologies- 
@@ -54,4 +64,9 @@ Since, today we have become **Dappsters** officially, we are proud of taking our
 ## What we learned 
 We learnt how to work with **Hardhat and Thirdweb**, and got a rough **idea of flow web3 development cycle**, also about the rough file structure of any **Web3 project** and how the frontend basically remains the same in Web3 Development. In addition to this we learnt how to integrate **smart contracts** with our **interactive frontend** and how to deploy smart contract with ease using Thirdweb and Hardhat. Moreover, we also enjoyed getting familiar with **Flow** and **Circle**, though we couldn't go forward with our initial plan of using Flow in our project because of lack of time and unfamiliarity. In addition to these technical skills, we learnt to manage time, work strategically, create viable backups and interact with various tech enthusiast on various community forums.
 
-## What's next for Raise Waves 
+## What's next for Raise Waves  
+
+
+## Team 
+- [Vaishnavi Kale](https://github.com/vaishnavi-3969)
+- [Vaishali](https://github.com/arcVaishali)
