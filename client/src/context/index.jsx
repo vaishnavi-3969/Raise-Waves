@@ -1,4 +1,5 @@
 import React, { useContext, createContext } from 'react';
+
 import { useAddress, useContract, useMetamask, useContractWrite } from '@thirdweb-dev/react';
 import { ethers } from 'ethers';
 import { EditionMetadataWithOwnerOutputSchema } from '@thirdweb-dev/sdk';
@@ -16,11 +17,11 @@ export const StateContextProvider = ({ children }) => {
     try {
       const data = await createCampaign({
 				args: [
-					address,
-					form.title,
+					address, 
+					form.title, 
 					form.description, 
 					form.target,
-					new Date(form.deadline).getTime(),
+					new Date(form.deadline).getTime(), 
 					form.image,
 				],
 			});
