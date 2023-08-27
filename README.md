@@ -57,6 +57,7 @@ It utilizes **blockchain based technology** to bring about a breakthrough in cro
 -----
 
 #### Functionality 
+The application is built using vite and tailwind as frontend. For backend we have use Thirdweb for deploying smart contracts(using solidity). Thirdweb also stores all the information that the user inputs to the campaign fields and then for displaying it again fetches all the records from the ThirdWeb and displays it. The user is required to connect their metamask account to perform transactions and create campaigns
 
 -----
 
@@ -105,6 +106,7 @@ Since, today we have become **Dappsters** officially, we are proud of taking our
 We learnt how to work with **Hardhat and Thirdweb**, and got a rough **idea of flow web3 development cycle**, also about the rough file structure of any **Web3 project** and how the frontend basically remains the same in Web3 Development. In addition to this we learnt how to integrate **smart contracts** with our **interactive frontend** and how to deploy smart contract with ease using Thirdweb and Hardhat. Moreover, we also enjoyed getting familiar with **Flow** and **Circle**, though we couldn't go forward with our initial plan of using Flow in our project because of lack of time and unfamiliarity. In addition to these technical skills, we learnt to manage time, work strategically, create viable backups and interact with various tech enthusiast on various community forums.
 
 ## What's next for Raise Waves  
+We plan to improve the website by adding more features and incorporate gamification methods like leaderboard and deploy the website to Mainnet. We plan to incorporate features like integration with official documents so that individuals donating would receive tax concessions.
 
 ## Developer's Corner: Crafting Connections and Code
 
