@@ -120,7 +120,7 @@ Raise Waves isn't just a platform; it's a canvas of innovation where technology 
 
 As you explore Raise Waves, remember that each feature, each function, is an embodiment of our passion for progress. This is our developer's message to you – an invitation to join us in crafting a better future, one line of code at a time.
 
-> Feel free to reach out to us with your thoughts, questions, or even just to say hello. We're here to listen, collaborate, and make Migrant Mingle the best it can be. Together, let's embark on a journey of connections, cultures, and empowerment.
+> Feel free to reach out to us with your thoughts, questions, or even just to say hello. We're here to listen, collaborate, and make Raise waves the best it can be. Together, let's embark on a journey of connections, cultures, and empowerment.
 
 Stay connected,
 The Developer Team
