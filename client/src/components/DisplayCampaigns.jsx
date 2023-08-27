@@ -19,7 +19,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Food Donation Campaign',
       description: 'Donating food to local charity',
       amountCollected: 0,
-      goalAmount: 2000,
+      target: 2000,
       deadline: 23,
       image:
         'https://img.freepik.com/premium-vector/donation-boxes-with-canned-food-illustration-freshly-prepared-food-packaged-sealed-jars-helping-people-need-poor-people-giving-out-charities-saving-from-hunger-vector-kindness_146957-1033.jpg?w=1380',
@@ -29,7 +29,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Clothes Donation Campaign',
       description: 'Donating clothes to local charity',
       amountCollected: 0,
-      goalAmount: 0,
+      target: 500,
       deadline: 1,
       image:
         'https://img.pikbest.com/element_our/20221231/bg/3b4ab970106c9.png!w700wp',
@@ -39,17 +39,17 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Education Support Fund',
       description: 'Providing educational resources to underprivileged children',
       amountCollected: 350,
-      goalAmount: 1000,
+      target: 1000,
       deadline: 15,
       image:
-        'https://image.freepik.com/free-vector/education-charity-concept_23-2148556527.jpg',
+        'https://w7.pngwing.com/pngs/275/188/png-transparent-education-school-icon-children-education-infographic-child-text-thumbnail.png',
     },
     {
       owner: 'ghi',
       title: 'Clean Water Initiative',
       description: 'Providing clean and safe drinking water to rural communities',
       amountCollected: 800,
-      goalAmount: 1500,
+      target: 1500,
       deadline: 10,
       image:
         'https://image.freepik.com/free-vector/world-water-day-concept_23-2148544896.jpg',
@@ -59,7 +59,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Animal Shelter Renovation',
       description: 'Renovating an animal shelter to improve living conditions',
       amountCollected: 2500,
-      goalAmount: 3000,
+      target: 3000,
       deadline: 7,
       image:
         'https://image.freepik.com/free-vector/happy-animals-shelter-concept_23-2148564903.jpg',
@@ -69,7 +69,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Community Garden Project',
       description: 'Creating a communal garden for sustainable food production',
       amountCollected: 1200,
-      goalAmount: 2500,
+      target: 2500,
       deadline: 14,
       image:
         'https://image.freepik.com/free-vector/community-garden-planting_74855-5126.jpg',
@@ -79,7 +79,7 @@ const DisplayCampaigns = ({ title, isLoading, campaigns }) => {
       title: 'Healthcare Outreach Program',
       description: 'Providing medical care and vaccinations to remote areas',
       amountCollected: 600,
-      goalAmount: 800,
+      target: 800,
       deadline: 5,
       image:
         'https://image.freepik.com/free-vector/healthcare-outreach-program_23-2148561232.jpg',
