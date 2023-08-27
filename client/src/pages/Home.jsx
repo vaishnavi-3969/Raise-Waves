@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import { DisplayCampaigns } from '../components';
 import { useStateContext } from '../context';
+import Logo from '../assets/RaiseWavesBlack.jpg' ;
 
 const Home = () => {
   const [isLoading, setIsLoading] = useState(false);
@@ -20,8 +21,9 @@ const Home = () => {
 
   return (
     <div className="bg-gradient-to-b from-indigo-900 to-gray-900 text-white min-h-screen flex flex-col items-center justify-center p-8 rounded-md">
-      <div className="text-center mb-8">
+      <div className="text-center mb-8 flex">
         <h1 className="font-epilogue font-bold text-4xl md:text-5xl mb-2">
+        <img src={Logo} alt='logo' className='w-40 p-4'/>
           Welcome to Raise Waves
         </h1>
         <p className="font-epilogue text-lg text-gray-400">
