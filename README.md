@@ -15,9 +15,6 @@ In a world filled with dreams waiting to be realized, Raise Waves emerges as a b
 **Raise Waves** will not just be a platform; it at it's core imagines to be a catalyst for change, a testament to human ingenuity, and a testament to the remarkable things we can achieve when we come together. Elevate your aspirations with Raise Waves, where the extraordinary begins.
 
 ## What it does 
-
------
-
 #### Why Raise Waves
 It utilizes **blockchain based technology** to bring about a breakthrough in crowd sourcing apps. It has the ability to revolutionize transparency, trust, and inclusivity in the world of fundraising and support. Here's why:
 
