@@ -29,8 +29,8 @@ module.exports = {
     sepolia_testnet: {
       url: "https://rpc.sepolia.org/",  
       account:[`0x${process.env.PRIVATE_KEY}`]
-      // ethNetwork: "sepolia",  
-      // chainId: 11155111,  
+      ethNetwork: "sepolia",  
+      chainId: 11155111,  
       // zksync: true,
     },
   },
